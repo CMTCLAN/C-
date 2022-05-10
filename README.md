@@ -7,5 +7,5 @@ The public code C#
 
 <p align="center">
   <a href="https://github.com/Matary1">
-    <img src="https://skillicons.dev/icons?i=vscode,c#" />
+    <img src="https://skillicons.dev/icons?i=vscode,cs" />
   </a>  
